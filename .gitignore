@@ -152,6 +152,20 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+creds.py
+past_events.txt
+past_tasks.txt
+client_secret.json
+cert.pem
+key.pem
+.idea
+__pycache__
+env
+venv
+instance
+instance/
+.instance
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
